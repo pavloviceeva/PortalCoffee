@@ -1,1 +1,1 @@
-
+Napravila sam sajt o kaficu u kom radim, ubacila sam slike kafa koje sam pravila, slike izgleda lokala i kontakt na pocetnu stranu, imam jos dve stranice, o nama i pice u ponudi. Na stranici o nama sam ubacila jednu sliku soljica kakvih imamo u ponudi i ukratko napisala tekst. I poslednja stranica je pica u ponudi gde sam napisala samo neke grupe pica i ubacila tri slike. 
